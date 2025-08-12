@@ -1,2 +1,2 @@
-# Design-and-analysis-of-algorithm
+# Artificial intelligence
 Exp no:1
